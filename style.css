@@ -1,0 +1,31 @@
+
+body{
+    background-color: #dfdbdb;
+}
+header{
+     border-bottom: 4px solid rgb(228, 110, 110);
+     background: rgb(28, 26, 73);
+}
+
+header span{
+    font-weight: bold;
+    color: rgb(228, 110, 110);
+}
+
+.link-custom{
+    color: rgb(228, 110, 110);
+}
+.link-custom:hover{
+    color: rgb(212, 193, 193);
+ 
+}
+.showcase-bg {
+
+    background: url(img/showcase.jpg) no-repeat center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+}
+.showcase-bg h1{
+    margin-top: 100px;
+}
